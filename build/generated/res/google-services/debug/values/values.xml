@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">36136968259-7tua4c5rr33o1i3neipddmh9d5m9asss.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://baymax-3929c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">36136968259</string>
+    <string name="google_api_key" translatable="false">AIzaSyBJeJGoV6pZMsZli9bq8yxBtGHs_dpRlwA</string>
+    <string name="google_app_id" translatable="false">1:36136968259:android:7c7bd54a754550e5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBJeJGoV6pZMsZli9bq8yxBtGHs_dpRlwA</string>
+    <string name="google_storage_bucket" translatable="false">baymax-3929c.appspot.com</string>
+</resources>
